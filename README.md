@@ -1,1 +1,1 @@
-# PytorchTIMM IndoorSceneRecognition
+# PytorchTIMMIndoorSceneRecognition
